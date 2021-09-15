@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
     <string name="my_greeting">Hello World. This is my first app!</string>
-    <string name="button_text">You clicked button</string>
+    <string name="button_text">You clicked the button</string>
 </resources>
